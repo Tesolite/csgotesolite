@@ -1,0 +1,25 @@
+body {background-color:#171717; color:White}
+
+a:link {
+  color:orange;
+  background-color:transparent;
+  text-decoration:none;
+}
+
+a:visited {
+  color:#00D8FF;
+  background-color:transparent;
+  text-decoration:none;
+}
+
+a:hover {
+  color:#74FF00;
+  background-color:transparent;
+  text-decoration:underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
