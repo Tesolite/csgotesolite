@@ -27,9 +27,13 @@ a:active {
 aside {
   width: 40%;
   border: solid white 1px;
+  /* Padding affects the text inside the aside tag and margin affects the text around it 
+	So padding would affect how close the border is to the text and marging how close the paragraph
+	text is to the aside*/
   padding-top: 5px;
   padding-left: 15px;
-  margin-left: 15px;
+  margin-left: 40px;
+  margin-bottom: 30px;
   padding-bottom: 5px;
   float: right;
   font-style: italic;
